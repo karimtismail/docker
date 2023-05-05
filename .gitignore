@@ -1,0 +1,7 @@
+/client/target
+/client/.idea
+/server/target
+/server/.idea
+/server/mvnw
+/server/mvnw.cmd
+.idea
